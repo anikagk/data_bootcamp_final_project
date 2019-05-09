@@ -1,5 +1,5 @@
 # data_bootcamp_final_project
-Final project for NYU Stern Undergraduate course Data Bootcamp, Spring 2019. 
+### Final project for NYU Stern Undergraduate course Data Bootcamp, Spring 2019. 
 
 This project was completed by Anika Kumbhakar in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project.
 In particular, I have: 
