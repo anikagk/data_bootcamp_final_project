@@ -12,4 +12,7 @@ Submitting the same or substantially similar work in multiple courses, either in
 I agknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course. 
 
 ### Project Description 
-I am exploring changes in rates of cigarette and e-cigarette smoking across different age groups and over time in NYC. The project also looks at how these rates have changed based on changes in cigarette prices/taxes in NYC. It uses data from NYC DOH Community Health Survey. 
+The results of this project show how smoking rates and average number of cigarettes smoked have changed in different age groups, and whether there is any relationship between that change and the average price of a pack of cigarettes. 
+
+The project and resulting graphics use data from New York City's Community Health Survey (CHS), which is taken annually by the City Department of Health and Mental Hygiene since 2002. They also use cigarette price data from the CDC Study "The Tax Burden on Tobacco,1970-2017"(Orzechowski and Walker). 
+
